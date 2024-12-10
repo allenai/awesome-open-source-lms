@@ -31,6 +31,13 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - [Data Processing Toolkit](https://github.com/allenai/dolma)  
 - [Demo](https://playground.allenai.org/)
 
+## AMD OLMo (Oct. 2024)
+
+- [1B model](https://huggingface.co/amd/AMD-OLMo)
+  - [SFT](https://huggingface.co/amd/AMD-OLMo-1B-SFT)
+  - [SFT-DPO](https://huggingface.co/amd/AMD-OLMo-1B-SFT-DPO)
+- [Blog post](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
+
 ## HuggingFace SmolLM (v2 Oct. 2024)
 
 - [SmolLM 2 collection](https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9)  

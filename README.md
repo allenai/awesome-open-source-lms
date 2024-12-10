@@ -67,6 +67,7 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - [Eval Gauntlet](https://github.com/mosaicml/llm-foundry/blob/main/scripts/eval/local_data/EVAL_GAUNTLET.md)  
 - [Pretraining Code](https://github.com/mosaicml/composer)  
   - [Megablocks (MoE Training)](https://github.com/databricks/megablocks)
+- [DBRX Collection](https://huggingface.co/collections/databricks/dbrx-6601c0852a0cdd3c59f71962)
 
 ## LLM 360
 
@@ -87,15 +88,51 @@ The best is fully **open-source** language models with the entire pipeline, but 
   - [Training Code](https://github.com/LLM360/amber-train)  
 - [Paper](https://arxiv.org/abs/2312.06550)
 
-## EleutherAI (Pythia)
+## EleutherAI
 
-- [Models Collection](https://huggingface.co/collections/EleutherAI/pythia-scaling-suite-64fb5dfa8c21ebb3db7ad2e1)  
+- Pythia
+  - [Models Collection](https://huggingface.co/collections/EleutherAI/pythia-scaling-suite-64fb5dfa8c21ebb3db7ad2e1)
+  - [Central Repo](https://github.com/EleutherAI/pythia)
+  - [Paper](https://arxiv.org/abs/2304.01373)
+
+- GPT-NeoX-20B
+  - [Model](https://huggingface.co/EleutherAI/gpt-neox-20b)
+  - [Paper](https://arxiv.org/abs/2204.06745)
+
+- Llema-7B
+  - [Central Repo](https://github.com/EleutherAI/math-lm)
+  - [Paper](https://arxiv.org/abs/2310.10631)
+  - [Dataset](https://huggingface.co/datasets/EleutherAI/proof-pile-2)
+  - [Blogpost](https://blog.eleuther.ai/llemma/)
+
+
+
 - [Training Code](https://github.com/EleutherAI/gpt-neox)  
-- [Evaluation Code](https://github.com/EleutherAI/lm-evaluation-harness)  
-- Papers:  
-  - [Pythia](https://arxiv.org/abs/2304.01373)  
-  - [LM Harness](https://arxiv.org/abs/2405.14782)  
-- [Dataset](https://huggingface.co/datasets/EleutherAI/pile)
+- [Eval Code](https://github.com/EleutherAI/lm-evaluation-harness)
+  - [Paper](https://arxiv.org/abs/2405.14782)
+  
+- [The Pile Dataset](https://huggingface.co/datasets/EleutherAI/pile)
+  - [Paper](https://arxiv.org/abs/2101.00027)
+
+
+## Cerebras
+
+- Cerebras-GPT
+  - [Models Collection](https://huggingface.co/collections/cerebras/cerebras-gpt-66c623297a2370b8e670e0a1)
+  - [Paper](https://arxiv.org/abs/2304.03208)
+  - [Blogpost](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+  - [Training Code](https://github.com/Cerebras/modelzoo)
+
+
+## RWKV
+
+- [RWKV-5 Models Collection](https://huggingface.co/collections/RWKV/rwkv-v5-6633e58adbe81b1466f9676b)
+- [RWKV-6 Models Collection](https://huggingface.co/collections/RWKV/rwkv-v6-669cb221fe9496b3c693c8e9)
+- [Training Code](https://github.com/BlinkDL/RWKV-LM)
+- Papers:
+  - [RWKV-4](https://arxiv.org/abs/2305.13048)
+  - [RWKV-5 and RWKV-6](https://arxiv.org/abs/2404.05892)
+
 
 ## M.A.P.
 
@@ -108,14 +145,18 @@ The best is fully **open-source** language models with the entire pipeline, but 
 
 - Zamba 2 Models:  
   - [7B](https://huggingface.co/Zyphra/Zamba2-7B)  
-  - [7B Instruct](https://huggingface.co/Zyphra/Zamba2-7B-Instruct)  
+    - [7B Instruct](https://huggingface.co/Zyphra/Zamba2-7B-Instruct)
+    - [Blogpost](https://www.zyphra.com/post/zamba2-7b)
   - [2.7B](https://huggingface.co/Zyphra/Zamba2-2.7B)  
-  - [2.7B Instruct](https://huggingface.co/Zyphra/Zamba2-2.7B-Instruct)  
+    - [Instruct](https://huggingface.co/Zyphra/Zamba2-2.7B-Instruct)
+    - [Blogpost](https://www.zyphra.com/post/zamba2-small)
   - [1.2B](https://huggingface.co/Zyphra/Zamba2-1.2B)  
-  - [1.2B Instruct](https://huggingface.co/Zyphra/Zamba2-1.2B-Instruct)  
-  - [Blogpost](https://www.zyphra.com/post/zamba2-7b)  
+    - [Instruct](https://huggingface.co/Zyphra/Zamba2-1.2B-Instruct)
+    - [Blogpost](https://www.zyphra.com/post/zamba2-mini)
+  - [Paper](https://arxiv.org/abs/2411.15242)
 - [Zyda 2 Dataset](https://huggingface.co/datasets/Zyphra/Zyda-2)  
   - [Blogpost](https://www.zyphra.com/post/building-zyda-2#zyda2_7)
+  - [Paper](https://arxiv.org/abs/2411.06068)
 
 ## Together.AI
 

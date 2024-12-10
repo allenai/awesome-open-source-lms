@@ -37,18 +37,19 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - SmolLM 2 pretraining data: TBD  
 - [SmolLM instruction mix](https://huggingface.co/datasets/HuggingFaceTB/smoltalk)  
 - [SmolLM collection](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966)  
-- [SMolLM pretraining data](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)  
+- [SmolLM pretraining data](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)  
 - [Synthetic pretrain corpus](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)  
 - [Fineweb pretrain corpus](https://huggingface.co/datasets/HuggingFaceFW/fineweb)  
   - [Edu Subset](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)  
-  - [Fineweb 2 (multilingual)](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)  
-- [Training Code](https://github.com/huggingface/nanotron)  
-- [Eval Code](https://github.com/huggingface/lighteval)  
-- [Data Processing Code](https://github.com/huggingface/datatrove)  
+  - [Fineweb 2 (multilingual)](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)
+- [SmolLM repo](https://github.com/huggingface/smollm)
+  - [Training Code](https://github.com/huggingface/nanotron)
+  - [Eval Code](https://github.com/huggingface/lighteval)  
+  - [Data Processing Code](https://github.com/huggingface/datatrove)
 - Blogposts:  
   - [Fineweb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)  
   - [Fineweb v2](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks)  
-  - [Smolweb](https://huggingface.co/blog/smollm)
+  - [SmolLM](https://huggingface.co/blog/smollm)
 
 ## DataComp (Jun. 2024)
 

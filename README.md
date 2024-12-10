@@ -167,11 +167,13 @@ The best is fully **open-source** language models with the entire pipeline, but 
 
 ## NVIDIA
 
-- [Pretraining Code](https://github.com/NVIDIA/Megatron-LM)  
+- Pretraining Code
+  - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+  - [NeMo](https://github.com/NVIDIA/NeMo)  
 - [Data Processing](https://github.com/NVIDIA/NeMo-Curator)  
 - [Post-training Code](https://github.com/NVIDIA/NeMo-Aligner)
 
 ## PyTorch / Meta
 
 - [Torch Titan Pretraining Code](https://github.com/pytorch/torchtitan)  
-- [Meta Lingua Pretraining Code](https://github.com/facebookresearch/lingua)  
+- [Meta Lingua Pretraining Code](https://github.com/facebookresearch/lingua)

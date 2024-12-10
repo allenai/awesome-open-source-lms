@@ -1,7 +1,6 @@
 # Awesome Open Language Models
 
 Friends of OLMo and their requisite links. Built for the [2024 NeurIPS tutorial on opening the language modeling pipeline](https://neurips.cc/virtual/2024/tutorial/99526) by Ai2 (slides [here](https://docs.google.com/presentation/d/179dpzWSQ9G7EAUlvaJdeE0av9PLuk9Rl33nfhHSJ4xI/edit?usp=sharing)).
-
 > Language models (LMs) have become a critical technology for tackling a wide range of natural language processing tasks, making them ubiquitous in both AI
 research and commercial products.
 > As their commercial importance has surged, the most powerful models have become more secretive, gated behind proprietary interfaces, with important details of their training data, architectures, and development undisclosed. 
@@ -9,6 +8,8 @@ research and commercial products.
 > In this tutorial, we provide a detailed walkthrough of the language model development pipeline, including pretraining data, model architecture and training, adaptation (e.g., instruction tuning, RLHF). 
 > For each of these development stages, we provide examples using open software and data, and discuss tips, tricks, pitfalls, and otherwise often inaccessible details about the full language model pipeline that we've uncovered in our own efforts to develop open models. 
 > We have opted not to have the optional panel given the extensive technical details and examples we need to include to cover this topic exhaustively.
+
+This focuses on language models with **more than just model weights being open** -- looking for training code, data, and more!
 
 🚧 Missed something? Give us a PR to add! 🚧
 

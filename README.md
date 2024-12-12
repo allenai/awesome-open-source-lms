@@ -68,7 +68,7 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - [Pretrain Dataset](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0)  
 - [Training + Eval Code](https://github.com/mlfoundations/dclm)  
 - [Paper](https://arxiv.org/abs/2406.11794)
-- [Post-training Eval Code](https://github.com/mlfoundations/evalchemy)
+- [Evalchemy (Post-training Eval Code)](https://github.com/mlfoundations/evalchemy)
 
 ## Databricks / formerly Mosaic ML
 

@@ -169,9 +169,34 @@ The best is fully **open-source** language models with the entire pipeline, but 
 
 ## Together.AI
 
-- [RedPajama v1 Dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)  
-- [RedPajama v2 Dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)  
+- [RedPajama v1 Dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)
+- [RedPajama v2 Dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)
 - [Data Code](https://github.com/togethercomputer/RedPajama-Data)
+
+## Inference.net
+
+- Schematron Models (HTML-to-JSON Extraction):
+  - [Schematron-3B](https://huggingface.co/inference-net/Schematron-3B)
+    - Specialized HTML-to-JSON extraction model with 128K context window
+    - Base model: Meta-Llama-3.2-3B-Instruct
+    - 3B parameters, BF16 precision
+    - [Model Card](https://huggingface.co/inference-net/Schematron-3B) | [Documentation](https://docs.inference.net/use-cases/json-extraction)
+  - [Schematron-8B](https://huggingface.co/inference-net/Schematron-8B)
+    - High-accuracy HTML-to-JSON extraction with marginal quality lift
+    - Base model: Meta-Llama-3.1-8B-Instruct
+    - 8B parameters, BF16 precision
+    - [Model Card](https://huggingface.co/inference-net/Schematron-8B) | [Documentation](https://docs.inference.net/use-cases/json-extraction)
+  - [Serverless API](https://docs.inference.net/use-cases/json-extraction)
+  - [Blog Post: Structured HTML Extraction](https://inference.net/blog/Schematron)
+
+- ClipTagger-12b (Video Frame Captioning):
+  - [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b)
+    - 12B parameter vision-language model for video frame captioning
+    - Base architecture: Gemma-12B with FP8 quantization
+    - Specialized for structured JSON output from video frames
+    - Cost-efficient: 15x cheaper than GPT-4.1, 17x cheaper than Claude 4 Sonnet
+    - [Model Card](https://huggingface.co/inference-net/ClipTagger-12b) | [Documentation](https://docs.inference.net/use-cases/video-understanding)
+  - [Blog Post: Video Understanding at Scale](https://inference.net/blog/cliptagger-12b)
 
 ## NVIDIA
 

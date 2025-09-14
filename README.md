@@ -185,3 +185,8 @@ The best is fully **open-source** language models with the entire pipeline, but 
 
 - [Torch Titan Pretraining Code](https://github.com/pytorch/torchtitan)  
 - [Meta Lingua Pretraining Code](https://github.com/facebookresearch/lingua)
+
+## Open-sci, OpenEuroLLM, LAION AI (Sept. 2025)
+- [Paper](https://www.arxiv.org/pdf/2509.09009)
+- [Blog](https://laion.ai/blog/open-sci-ref-001/)
+- [HF collections](https://huggingface.co/collections/open-sci/open-sci-ref-001-685905e598be658fbcebff4f)

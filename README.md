@@ -190,3 +190,10 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - [Paper](https://www.arxiv.org/pdf/2509.09009)
 - [Blog](https://laion.ai/blog/open-sci-ref-001/)
 - [HF collections](https://huggingface.co/collections/open-sci/open-sci-ref-001-685905e598be658fbcebff4f)
+
+## LLäMmlein (German LLaMa)
+- [Paper](https://aclanthology.org/2025.acl-long.111/)
+- [Blog](https://www.informatik.uni-wuerzburg.de/datascience/projects/nlp/llammlein/)
+- [120M](https://huggingface.co/LSX-UniWue/LLaMmlein_120M), [1B](https://huggingface.co/LSX-UniWue/LLaMmlein_1B), [7B](https://huggingface.co/LSX-UniWue/LLaMmlein_7B), with intermediate checkpoints
+- [Dataset](https://huggingface.co/datasets/LSX-UniWue/LLaMmlein-Dataset)
+- [Pretraining codebase](https://github.com/LSX-UniWue/LLaMmlein)

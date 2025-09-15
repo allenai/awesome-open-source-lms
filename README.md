@@ -173,6 +173,10 @@ The best is fully **open-source** language models with the entire pipeline, but 
 - [RedPajama v2 Dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)  
 - [Data Code](https://github.com/togethercomputer/RedPajama-Data)
 
+## [Marin Community](https://marin.community/)
+
+- [marin-8b-instruct](https://huggingface.co/marin-community/marin-8b-instruct-bf16)
+
 ## NVIDIA
 
 - Pretraining Code
